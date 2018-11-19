@@ -9,7 +9,7 @@ Python is a general-purpose programming language that is becoming more and more 
 #### 01-01-01-[Python Basics](python/01-Programming/01-Intro to Python for Data Science/01-Python Basics)
 An introduction to the basic concepts of Python. Learn how to use Python both interactively and through a script. Create your first variables and acquaint yourself with Python's basic data types.
 
-1. Hello Python!
+* Hello Python!
 * The Python Interface
 * When to use Python?
 * Any comments?
