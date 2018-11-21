@@ -40,3 +40,19 @@ Learn to store, access and manipulate data in lists: the first step towards effi
 * Extend a list
 * Delete list elements
 * Inner workings of lists
+
+#### 01-01-02-[Functions and Packages](python/01-Programming/01-Intro to Python for Data Science/03-Functions and Packages)
+To leverage the code that brilliant Python developers have written, you'll learn about using functions, methods and packages. This will help you to reduce the amount of code you need to solve challenging problems!
+
+* Functions
+* Familiar functions
+* Help!
+* Multiple arguments
+* Methods
+* String Methods
+* List Methods
+* List Methods (2)
+* Packages
+* Import package
+* Selective import
+* Different ways of importing
