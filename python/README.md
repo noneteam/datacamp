@@ -41,7 +41,7 @@ Learn to store, access and manipulate data in lists: the first step towards effi
 * Delete list elements
 * Inner workings of lists
 
-#### 01-01-02-[Functions and Packages](python/01-Programming/01-Intro to Python for Data Science/03-Functions and Packages)
+#### 01-01-03-[Functions and Packages](python/01-Programming/01-Intro to Python for Data Science/03-Functions and Packages)
 To leverage the code that brilliant Python developers have written, you'll learn about using functions, methods and packages. This will help you to reduce the amount of code you need to solve challenging problems!
 
 * Functions
@@ -56,3 +56,24 @@ To leverage the code that brilliant Python developers have written, you'll learn
 * Import package
 * Selective import
 * Different ways of importing
+
+
+#### 01-01-04-[NumPy](python/01-Programming/01-Intro to Python for Data Science/04-NumPy)
+NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
+
+* NumPy
+* Your First NumPy Array
+* Baseball players' height
+* Baseball player's BMI
+* Lightweight baseball players
+* NumPy Side Effects
+* Subsetting NumPy Arrays
+* 2D NumPy Arrays
+* Your First 2D NumPy Array
+* Baseball data in 2D form
+* Subsetting 2D NumPy Arrays
+* 2D Arithmetic
+* NumPy: Basic Statistics
+* Average versus median
+* Explore the baseball data
+* Blend it all together
