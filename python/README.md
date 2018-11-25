@@ -57,7 +57,6 @@ To leverage the code that brilliant Python developers have written, you'll learn
 * Selective import
 * Different ways of importing
 
-
 #### 01-01-04-[NumPy](python/01-Programming/01-Intro to Python for Data Science/04-NumPy)
 NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
 
@@ -77,3 +76,29 @@ NumPy is a Python package to efficiently do data science. Learn to work with the
 * Average versus median
 * Explore the baseball data
 * Blend it all together
+
+## 01-02-Intermediate Python for Data Science
+The intermediate python course is crucial to your data science curriculum. Learn to visualize real data with matplotlib's functions and get to know new data structures such as the dictionary and the Pandas DataFrame. After covering key concepts such as boolean logic, control flow and loops in Python, you're ready to blend together everything you've learned to solve a case study using hacker statistics.
+
+#### 01-02-01-[Matplotlib](python/01-Programming/02-Intermediate Python for Data Science/01-Matplotlib)
+Data Visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you will learn to build various types of plots and to customize them to make them more visually appealing and interpretable. 
+
+* Basic plots with matplotlib
+* Line plot (1)
+* Line Plot (2): Interpretation
+* Line plot (3)
+* Scatter Plot (1)
+* Scatter plot (2)
+* Histograms
+* Build a histogram (1)
+* Build a histogram (2): bins
+* Build a histogram (3): compare
+* Choose the right plot (1)
+* Choose the right plot (2)
+* Customization
+* Labels
+* Ticks
+* Sizes
+* Colors
+* Additional Customizations
+* Interpretation
