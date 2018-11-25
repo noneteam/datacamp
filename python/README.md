@@ -125,3 +125,25 @@ Learn about the dictionary, an alternative to the Python list, and the Pandas Da
 * loc and iloc (1)
 * loc and iloc (2)
 * loc and iloc (3)
+
+#### 01-02-03-[Logic, Control Flow and Filtering](python/01-Programming/02-Intermediate Python for Data Science/03-Logic, Control Flow and Filtering)
+Boolean logic is the foundation of decision-making in your Python programs. Learn about different comparison operators, how you can combine them with boolean operators and how to use the boolean outcomes in control structures. You'll also learn to filter data from Pandas DataFrames using logic.
+
+* Comparison Operators
+* Equality
+* Greater and less than
+* Compare arrays
+* Boolean Operators
+* and, or, not (1)
+* and, or, not (2)
+* Boolean operators with Numpy
+* if, elif, else
+* Warmup
+* if
+* Add else
+* Customize further: elif
+* Filtering Pandas DataFrame
+* Driving right (1)
+* Driving right (2)
+* Cars per capita (1)
+* Cars per capita (2)
