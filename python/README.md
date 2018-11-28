@@ -168,3 +168,21 @@ There are several techniques to repeatedly execute Python code. While loops are 
 * Loop over DataFrame (2)
 * Add column (1)
 * Add column (2)
+
+#### 01-02-05-[Case Study: Hacker Statistics](python/01-Programming/02-Intermediate Python for Data Science/05-Case Study: Hacker Statistics)
+This chapter blends together everything you've learned up to now. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops and matplotlib to get the competitive edge! 
+
+* Random Numbers
+* Random float
+* Roll the dice
+* Determine your next move
+* Random Walk
+* The next step
+* How low can you go?
+* Visualize the walk
+* Distribution
+* Simulate multiple walks
+* Visualize all walks
+* Implement clumsiness
+* Plot the distribution
+* Calculate the odds
