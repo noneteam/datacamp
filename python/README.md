@@ -81,7 +81,7 @@ NumPy is a Python package to efficiently do data science. Learn to work with the
 The intermediate python course is crucial to your data science curriculum. Learn to visualize real data with matplotlib's functions and get to know new data structures such as the dictionary and the Pandas DataFrame. After covering key concepts such as boolean logic, control flow and loops in Python, you're ready to blend together everything you've learned to solve a case study using hacker statistics.
 
 #### 01-02-01-[Matplotlib](python/01-Programming/02-Intermediate Python for Data Science/01-Matplotlib)
-Data Visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you will learn to build various types of plots and to customize them to make them more visually appealing and interpretable. 
+Data Visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you will learn to build various types of plots and to customize them to make them more visually appealing and interpretable.
 
 * Basic plots with matplotlib
 * Line plot (1)
@@ -170,7 +170,7 @@ There are several techniques to repeatedly execute Python code. While loops are 
 * Add column (2)
 
 #### 01-02-05-[Case Study: Hacker Statistics](python/01-Programming/02-Intermediate Python for Data Science/05-Case Study: Hacker Statistics)
-This chapter blends together everything you've learned up to now. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops and matplotlib to get the competitive edge! 
+This chapter blends together everything you've learned up to now. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops and matplotlib to get the competitive edge!
 
 * Random Numbers
 * Random float
@@ -186,3 +186,24 @@ This chapter blends together everything you've learned up to now. You will use h
 * Implement clumsiness
 * Plot the distribution
 * Calculate the odds
+
+## 01-03-Python Data Science Toolbox (Part 1)
+It's now time to push forward and develop your Python chops even further. There are lots and lots of fantastic functions in Python and its library ecosystem. However, as a Data Scientist, you'll constantly need to write your own functions to solve problems that are dictated by your data. The art of function writing is what you'll learn in this first Python Data Science toolbox course. You'll come out of this course being able to write your very own custom functions, complete with multiple parameters and multiple return values, along with default arguments and variable-length arguments. You'll gain insight into scoping in Python and be able to write lambda functions and handle errors in your very own function writing practice. On top of this, you'll wrap up each Chapter by diving into using your acquired skills to write functions that analyze twitter DataFrames and are generalizable to broader Data Science contexts.
+
+#### 01-03-01-[Writing your own functions](python/01-Programming/03-Python Data Science Toolbox (Part 1)/01-Writing your own functions)
+Here you will learn how to write your very own functions. In this Chapter, you'll learn how to write simple functions, as well as functions that accept multiple arguments and return multiple values. You'll also have the opportunity to apply these newfound skills to questions that commonly arise in Data Science contexts.
+
+* User-defined functions
+* Strings in Python
+* Recapping built-in functions
+* Write a simple function
+* Single-parameter functions
+* Functions that return single values
+* Multiple parameters and return values
+* Functions with multiple parameters
+* A brief introduction to tuples
+* Functions that return multiple values
+* Bringing it all together
+* Bringing it all together (1)
+* Bringing it all together (2)
+* Congratulations!
