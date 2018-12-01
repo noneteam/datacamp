@@ -207,3 +207,23 @@ Here you will learn how to write your very own functions. In this Chapter, you'l
 * Bringing it all together (1)
 * Bringing it all together (2)
 * Congratulations!
+
+#### 01-03-02-[Default arguments, variable-length arguments and scope](python/01-Programming/03-Python Data Science Toolbox Part 1/02-Default arguments, variable-length arguments and scope)
+In this chapter, you'll learn to write functions with default arguments, so that the user doesn't always need to specify them, and variable-length arguments, so that they can pass to your functions an arbitrary number of arguments. These are both incredibly useful tools! You'll also learn about the essential concept of scope. Enjoy!
+
+* Scope and user-defined functions
+* Pop quiz on understanding scope
+* The keyword global
+* Python's built-in scope
+* Nested functions
+* Nested Functions I
+* Nested Functions II
+* The keyword nonlocal and nested functions
+* Default and flexible arguments
+* Functions with one default argument
+* Functions with multiple default arguments
+* Functions with variable-length arguments (*args)
+* Functions with variable-length keyword arguments (**kwargs)
+* Bringing it all together
+* Bringing it all together (1)
+* Bringing it all together (2)
