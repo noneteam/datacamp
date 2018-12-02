@@ -227,3 +227,23 @@ In this chapter, you'll learn to write functions with default arguments, so that
 * Bringing it all together
 * Bringing it all together (1)
 * Bringing it all together (2)
+
+#### 01-03-03-[Lambda functions and error-handling](python/01-Programming/03-Python Data Science Toolbox Part 1/03-Lambda functions and error-handling)
+Herein, you'll learn about lambda functions, which allow you to write functions quickly and on-the-fly. You'll also get practice at handling errors that your functions, at some point, will inevitably throw. You'll wrap up once again applying these skills to Data Science questions.
+
+* Lambda functions
+* Pop quiz on lambda functions
+* Writing a lambda function you already know
+* Map() and lambda functions
+* Filter() and lambda functions
+* Reduce() and lambda functions
+* Introduction to error handling
+* Pop quiz about errors
+* Error handling with try-except
+* Error handling by raising an error
+* Bringing it all together
+* Bringing it all together (1)
+* Bringing it all together (2)
+* Bringing it all together (3)
+* Bringing it all together: testing your error handling skills
+* Congratulations!
