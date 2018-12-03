@@ -4,7 +4,7 @@ Discover important data structures like dictionaries and DataFrames, visualize r
 ## 01-01-Intro to Python for Data Science
 Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. Enter DataCamp’s online Python curriculum.
 
-#### 01-01-01-[Python Basics](<python/01-Programming/01-Intro to Python for Data Science/01-Python Basics>)
+#### 01-01-01-[Python Basics](</python/01-Programming/01-Intro to Python for Data Science/01-Python Basics>)
 An introduction to the basic concepts of Python. Learn how to use Python both interactively and through a script. Create your first variables and acquaint yourself with Python's basic data types.
 
 * Hello Python!
@@ -21,7 +21,7 @@ An introduction to the basic concepts of Python. Learn how to use Python both in
 * Type conversion
 * Can Python handle everything?
 
-#### 01-01-02-[Python Lists](<python/01-Programming/01-Intro to Python for Data Science/02-Python Lists>)
+#### 01-01-02-[Python Lists](</python/01-Programming/01-Intro to Python for Data Science/02-Python Lists>)
 Learn to store, access and manipulate data in lists: the first step towards efficiently working with huge amounts of data.
 
 * Lists, what are they?
@@ -41,7 +41,7 @@ Learn to store, access and manipulate data in lists: the first step towards effi
 * Delete list elements
 * Inner workings of lists
 
-#### 01-01-03-[Functions and Packages](<python/01-Programming/01-Intro to Python for Data Science/03-Functions and Packages>)
+#### 01-01-03-[Functions and Packages](</python/01-Programming/01-Intro to Python for Data Science/03-Functions and Packages>)
 To leverage the code that brilliant Python developers have written, you'll learn about using functions, methods and packages. This will help you to reduce the amount of code you need to solve challenging problems!
 
 * Functions
@@ -57,7 +57,7 @@ To leverage the code that brilliant Python developers have written, you'll learn
 * Selective import
 * Different ways of importing
 
-#### 01-01-04-[NumPy](<python/01-Programming/01-Intro to Python for Data Science/04-NumPy>)
+#### 01-01-04-[NumPy](</python/01-Programming/01-Intro to Python for Data Science/04-NumPy>)
 NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
 
 * NumPy
@@ -80,7 +80,7 @@ NumPy is a Python package to efficiently do data science. Learn to work with the
 ## 01-02-Intermediate Python for Data Science
 The intermediate python course is crucial to your data science curriculum. Learn to visualize real data with matplotlib's functions and get to know new data structures such as the dictionary and the Pandas DataFrame. After covering key concepts such as boolean logic, control flow and loops in Python, you're ready to blend together everything you've learned to solve a case study using hacker statistics.
 
-#### 01-02-01-[Matplotlib](<python/01-Programming/02-Intermediate Python for Data Science/01-Matplotlib>)
+#### 01-02-01-[Matplotlib](</python/01-Programming/02-Intermediate Python for Data Science/01-Matplotlib>)
 Data Visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you will learn to build various types of plots and to customize them to make them more visually appealing and interpretable.
 
 * Basic plots with matplotlib
@@ -103,7 +103,7 @@ Data Visualization is a key skill for aspiring data scientists. Matplotlib makes
 * Additional Customizations
 * Interpretation
 
-#### 01-02-02-[Dictionaries & Pandas](<python/01-Programming/02-Intermediate Python for Data Science/02-Dictionaries & Pandas>)
+#### 01-02-02-[Dictionaries & Pandas](</python/01-Programming/02-Intermediate Python for Data Science/02-Dictionaries & Pandas>)
 Learn about the dictionary, an alternative to the Python list, and the Pandas DataFrame, the de facto standard to work with tabular data in Python. You will get hands-on practice with creating, manipulating and accessing the information you need from these data structures.
 
 * Dictionaries, Part 1
@@ -126,7 +126,7 @@ Learn about the dictionary, an alternative to the Python list, and the Pandas Da
 * loc and iloc (2)
 * loc and iloc (3)
 
-#### 01-02-03-[Logic, Control Flow and Filtering](<python/01-Programming/02-Intermediate Python for Data Science/03-Logic, Control Flow and Filtering>)
+#### 01-02-03-[Logic, Control Flow and Filtering](</python/01-Programming/02-Intermediate Python for Data Science/03-Logic, Control Flow and Filtering>)
 Boolean logic is the foundation of decision-making in your Python programs. Learn about different comparison operators, how you can combine them with boolean operators and how to use the boolean outcomes in control structures. You'll also learn to filter data from Pandas DataFrames using logic.
 
 * Comparison Operators
@@ -148,7 +148,7 @@ Boolean logic is the foundation of decision-making in your Python programs. Lear
 * Cars per capita (1)
 * Cars per capita (2)
 
-#### 01-02-04-[Loops](<python/01-Programming/02-Intermediate Python for Data Science/04-Loops>)
+#### 01-02-04-[Loops](</python/01-Programming/02-Intermediate Python for Data Science/04-Loops>)
 There are several techniques to repeatedly execute Python code. While loops are like repeated if statements; the for loop is there to iterate over all kinds of data structures. Learn all about them in this chapter.
 
 * while loop
@@ -169,7 +169,7 @@ There are several techniques to repeatedly execute Python code. While loops are 
 * Add column (1)
 * Add column (2)
 
-#### 01-02-05-[Case Study: Hacker Statistics](<python/01-Programming/02-Intermediate Python for Data Science/05-Case Study: Hacker Statistics>)
+#### 01-02-05-[Case Study: Hacker Statistics](</python/01-Programming/02-Intermediate Python for Data Science/05-Case Study: Hacker Statistics>)
 This chapter blends together everything you've learned up to now. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops and matplotlib to get the competitive edge!
 
 * Random Numbers
@@ -190,7 +190,7 @@ This chapter blends together everything you've learned up to now. You will use h
 ## 01-03-Python Data Science Toolbox (Part 1)
 It's now time to push forward and develop your Python chops even further. There are lots and lots of fantastic functions in Python and its library ecosystem. However, as a Data Scientist, you'll constantly need to write your own functions to solve problems that are dictated by your data. The art of function writing is what you'll learn in this first Python Data Science toolbox course. You'll come out of this course being able to write your very own custom functions, complete with multiple parameters and multiple return values, along with default arguments and variable-length arguments. You'll gain insight into scoping in Python and be able to write lambda functions and handle errors in your very own function writing practice. On top of this, you'll wrap up each Chapter by diving into using your acquired skills to write functions that analyze twitter DataFrames and are generalizable to broader Data Science contexts.
 
-#### 01-03-01-[Writing your own functions](<python/01-Programming/03-Python Data Science Toolbox Part 1/01-Writing your own functions>)
+#### 01-03-01-[Writing your own functions](</python/01-Programming/03-Python Data Science Toolbox Part 1/01-Writing your own functions>)
 Here you will learn how to write your very own functions. In this Chapter, you'll learn how to write simple functions, as well as functions that accept multiple arguments and return multiple values. You'll also have the opportunity to apply these newfound skills to questions that commonly arise in Data Science contexts.
 
 * User-defined functions
@@ -208,7 +208,7 @@ Here you will learn how to write your very own functions. In this Chapter, you'l
 * Bringing it all together (2)
 * Congratulations!
 
-#### 01-03-02-[Default arguments, variable-length arguments and scope](<python/01-Programming/03-Python Data Science Toolbox Part 1/02-Default arguments, variable-length arguments and scope>)
+#### 01-03-02-[Default arguments, variable-length arguments and scope](</python/01-Programming/03-Python Data Science Toolbox Part 1/02-Default arguments, variable-length arguments and scope>)
 In this chapter, you'll learn to write functions with default arguments, so that the user doesn't always need to specify them, and variable-length arguments, so that they can pass to your functions an arbitrary number of arguments. These are both incredibly useful tools! You'll also learn about the essential concept of scope. Enjoy!
 
 * Scope and user-defined functions
@@ -228,7 +228,7 @@ In this chapter, you'll learn to write functions with default arguments, so that
 * Bringing it all together (1)
 * Bringing it all together (2)
 
-#### 01-03-03-[Lambda functions and error-handling](<python/01-Programming/03-Python Data Science Toolbox Part 1/03-Lambda functions and error-handling>)
+#### 01-03-03-[Lambda functions and error-handling](</python/01-Programming/03-Python Data Science Toolbox Part 1/03-Lambda functions and error-handling>)
 Herein, you'll learn about lambda functions, which allow you to write functions quickly and on-the-fly. You'll also get practice at handling errors that your functions, at some point, will inevitably throw. You'll wrap up once again applying these skills to Data Science questions.
 
 * Lambda functions
