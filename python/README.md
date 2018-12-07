@@ -247,3 +247,23 @@ Herein, you'll learn about lambda functions, which allow you to write functions 
 * Bringing it all together (3)
 * Bringing it all together: testing your error handling skills
 * Congratulations!
+
+## 01-04-Python Data Science Toolbox (Part 2)
+In this second course in the Python Data Science Toolbox, you'll continue to build your Python Data Science skills. First you'll enter the wonderful world of iterators, objects that you have already encountered in the context of for loops without having necessarily known it. You'll then learn about list comprehensions, which are extremely handy tools that form a basic component in the toolbox of all modern Data Scientists working in Python. You'll end the course by working through a case study in which you'll apply all of the techniques you learned both in this course as well as the prequel. If you're looking to make it as a Pythonista Data Science ninja, you have come to the right place.
+
+#### 01-04-01-[Using iterators in PythonLand](</python/01-Programming/04-Python Data Science Toolbox Part 2/01-Using iterators in PythonLand>)
+Here, you'll learn all about iterators and iterables, which you have already worked with before when writing for loops! You'll learn about some very useful functions that will allow you to effectively work with iterators and finish the chapter with a use case that is pertinent to the world of Data Science - dealing with large amounts of data - in this case, data from Twitter that you will load in chunks using iterators!
+
+* Introduction to iterators
+* Iterators vs Iterables
+* Iterating over iterables (1)
+* Iterating over iterables (2)
+* Iterators as function arguments
+* Playing with iterators
+* Using enumerate
+* Using zip
+* Using * and zip to 'unzip'
+* Using iterators to load large files into memory
+* Processing large amounts of Twitter data
+* Extracting information for large amounts of Twitter data
+* Congratulations!!
