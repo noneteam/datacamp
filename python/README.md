@@ -267,3 +267,111 @@ Here, you'll learn all about iterators and iterables, which you have already wor
 * Processing large amounts of Twitter data
 * Extracting information for large amounts of Twitter data
 * Congratulations!!
+
+#### 01-04-02-[List comprehensions and generators](</python/01-Programming/04-Python Data Science Toolbox Part 2/02-List comprehensions and generators>)
+In this chapter, you'll build on your knowledge of iterators and be introduced to list comprehensions, which allow you to create complicated lists and lists of lists in one line of code! List comprehensions can dramatically simplify your code and make it more efficient, and will become a vital part of your Python Data Science toolbox. You'll then learn about generators, which are extremely helpful when working with large sequences of data that you may not want to store in memory but instead generate on the fly. 
+
+* List comprehensions
+* Write a basic list comprehension
+* List comprehension over iterables
+* Writing list comprehensions
+* Nested list comprehensions
+* Advanced comprehensions
+* Using conditionals in comprehensions (1)
+* Using conditionals in comprehensions (2)
+* Dict comprehensions
+* Introduction to generator expressions
+* List comprehensions vs generators
+* Write your own generator expressions
+* Changing the output in generator expressions
+* Build a generator
+* Wrapping up comprehensions and generators.
+* List comprehensions for time-stamped data
+* Conditional list comprehensions for time-stamped data
+
+#### 01-04-03-[Bringing it all together!](</python/01-Programming/04-Python Data Science Toolbox Part 2/03-Bringing it all together!>)
+This chapter will allow you to apply your newly acquired skills towards wrangling and extracting meaningful information from a real-world dataset - the World Bank's World Development Indicators dataset! You'll have the chance to write your own functions and list comprehensions as you work with iterators and generators and solidify your Python Data Science chops. Enjoy! 
+
+* Welcome to the case study!
+* Dictionaries for data science
+* Writing a function to help you
+* Using a list comprehension
+* Turning this all into a DataFrame
+* Using Python generators for streaming data
+* Processing data in chunks (1)
+* Writing a generator to load data in chunks (2)
+* Writing a generator to load data in chunks (3)
+* Using pandas' read_csv iterator for streaming data
+* Writing an iterator to load data in chunks (1)
+* Writing an iterator to load data in chunks (2)
+* Writing an iterator to load data in chunks (3)
+* Writing an iterator to load data in chunks (4)
+* Writing an iterator to load data in chunks (5)
+* Final thoughts
+
+## 01-05-Data Types for Data Science
+Have you got your basic Python programming chops down for Data Science but are yearning for more? Then this is the course for you. Herein, you'll consolidate and practice your knowledge of lists, dictionaries, tuples, sets, and date times. You'll see their relevance in working with lots of real data and how to leverage several of them in concert to solve multistep problems, including an extended case study using Chicago metropolitan area transit data. You'll also learn how to use many of the objects in the Python Collections module, which will allow you to store and manipulate your data for a variety of Data Scientific purposes. After taking this course, you'll be ready to tackle many Data Science challenges Pythonically.
+
+#### 01-05-01-[Fundamental data types](</python/01-Programming/05-Data Types for Data Science/01-Fundamental data types>)
+This chapter will introduce you to the fundamental Python data types - lists, sets, and tuples. These data containers are critical as they provide the basis for storing and looping over ordered data. To make things interesting, you'll apply what you learn about these types to answer questions about the New York Baby Names dataset!
+
+* Introduction and lists
+* Manipulating lists for fun and profit
+* Looping over lists
+* Meet the Tuples
+* Data type usage
+* Using and unpacking tuples
+* Making tuples by accident
+* Sets for unordered and unique data
+* Finding all the data and the overlapping data between sets
+* Determining set differences
+
+#### 01-05-02-[Dictionaries - the root of Python](</python/01-Programming/05-Data Types for Data Science/02-Dictionaries - the root of Python>)
+At the root of all things Python is a dictionary. Herein, you'll learn how to use them to safely handle data that can viewed in a variety of ways to answer even more questions about the New York Baby Names dataset. You'll explore how to loop through data in a dictionary, access nested data, add new data, and come to appreciate all of the wonderful capabilities of Python dictionaries.
+
+* Using dictionaries
+* Creating and looping through dictionaries
+* Safely finding by key
+* Dealing with nested data
+* Altering dictionaries
+* Adding and extending dictionaries
+* Popping and deleting from dictionaries
+* Pythonically using dictionaries
+* Working with dictionaries more pythonically
+* Checking dictionaries for data
+* Working with CSV files
+* Reading from a file using CSV reader
+* Creating a dictionary from a file
+
+#### 01-05-03-[Meet the collections module](</python/01-Programming/05-Data Types for Data Science/03-Meet the collections module>)
+The collections module is part of Python's standard library and holds some more advanced data containers. You'll learn how to use the Counter, defaultdict, OrderedDict and namedtuple in the context of answering questions about the Chicago transit dataset. 
+
+* Counting made easy
+* Using Counter on lists
+* Finding most common elements
+* Dictionaries of unknown structure - Defaultdict
+* Creating dictionaries of an unknown structure
+* Safely appending to a key's value list
+* Maintaining Dictionary Order with OrderedDict
+* Working with OrderedDictionaries
+* Powerful Ordered popping
+* What do you mean I don't have any class? Namedtuple
+* Creating namedtuples for storing data
+* Leveraging attributes on namedtuples
+
+#### 01-05-04-[Handling Dates and Times ](</python/01-Programming/05-Data Types for Data Science/04-Handling Dates and Times >)
+Handling times can seem daunting at time, but here, you'll dig in and learn how to create datetime objects, print them, look to the past and to the future. Additionally, you'll learn about some third party modules that can make all of this easier. You'll continue to use the Chicago Transit dataset to answer questions about transit times. 
+
+* There and Back Again a DateTime Journey
+* Strings to DateTimes
+* Converting to a String
+* Working with Datetime Components and current time
+* Pieces of Time
+* Creating DateTime Objects... Now
+* Timezones
+* Time Travel (Adding and Subtracting Time)
+* Finding a time in the future and from the past
+* Finding differences in DateTimes
+* HELP! Libraries to make it easier
+* Localizing time with pendulum
+* Humanizing Differences with Pendulum
