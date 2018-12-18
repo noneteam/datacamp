@@ -359,7 +359,7 @@ The collections module is part of Python's standard library and holds some more 
 * Creating namedtuples for storing data
 * Leveraging attributes on namedtuples
 
-#### 01-05-04-[Handling Dates and Times ](</python/01-Programming/05-Data Types for Data Science/04-Handling Dates and Times >)
+#### 01-05-04-[Handling Dates and Times](</python/01-Programming/05-Data Types for Data Science/04-Handling Dates and Times>)
 Handling times can seem daunting at time, but here, you'll dig in and learn how to create datetime objects, print them, look to the past and to the future. Additionally, you'll learn about some third party modules that can make all of this easier. You'll continue to use the Chicago Transit dataset to answer questions about transit times. 
 
 * There and Back Again a DateTime Journey
@@ -375,3 +375,16 @@ Handling times can seem daunting at time, but here, you'll dig in and learn how 
 * HELP! Libraries to make it easier
 * Localizing time with pendulum
 * Humanizing Differences with Pendulum
+
+#### 01-05-05-[Answering Data Science Questions](</python/01-Programming/05-Data Types for Data Science/05-Answering Data Science Questions>)
+Time for a case study to reinforce all of your learning so far! You'll use all the containers and data types you've learned about to answer several real world questions about a dataset containing information about crime in Chicago. Have fun!
+* Counting within Date Ranges
+* Reading your data with CSV Reader and Establishing your Data Containers
+* Find the Months with the Highest Number of Crimes
+* Transforming your Data Containers to Month and Location
+* Find the Most Common Crimes by Location Type by Month in 2016
+* Dictionaries with Time Windows for Keys
+* Reading your Data with DictReader and Establishing your Data Containers
+* Determine the Arrests by District by Year
+* Unique Crimes by City Block
+* Final thoughts
