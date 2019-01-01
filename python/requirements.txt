@@ -10,3 +10,4 @@ xlrd
 sas7bdat
 h5py
 scipy
+sqlalchemy
