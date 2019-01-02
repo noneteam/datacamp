@@ -13,4 +13,4 @@ scipy
 sqlalchemy
 requests
 beautifulsoup4
-
+tweepy
