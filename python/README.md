@@ -378,6 +378,7 @@ Handling times can seem daunting at time, but here, you'll dig in and learn how 
 
 #### 01-05-05-[Answering Data Science Questions](</python/01-Programming/05-Data Types for Data Science/05-Answering Data Science Questions>)
 Time for a case study to reinforce all of your learning so far! You'll use all the containers and data types you've learned about to answer several real world questions about a dataset containing information about crime in Chicago. Have fun!
+
 * Counting within Date Ranges
 * Reading your data with CSV Reader and Establishing your Data Containers
 * Find the Months with the Highest Number of Crimes
@@ -388,3 +389,66 @@ Time for a case study to reinforce all of your learning so far! You'll use all t
 * Determine the Arrests by District by Year
 * Unique Crimes by City Block
 * Final thoughts
+
+## 01-07-Introduction to Data Science in Python
+Begin your journey into Data Science! Even if you've never written a line of code in your life, you'll be able to follow this course and witness the power of Python to perform Data Science. You'll use data to solve the mystery of Bayes, the kidnapped Golden Retriever, and along the way you'll become familiar with basic Python syntax and popular Data Science modules like Matplotlib (for charts and graphs) and Pandas (for tabular data).
+
+#### 01-07-01-[Getting Started in Python](</python/01-Programming/07-Introduction to Data Science in Python/01-Getting Started in Python>)
+Welcome to the wonderful world of Data Analysis in Python! In this chapter, you'll learn the basics of Python syntax, load your first Python modules, and use functions to get a suspect list for the kidnapping of Bayes, DataCamp's prize-winning Golden Retriever.
+
+* Dive into Python
+* Importing Python modules
+* Correcting a broken import
+* Creating variables
+* Creating a float
+* Creating strings
+* Correcting string errors
+* Valid variable names
+* Fun with functions
+* Load a DataFrame
+* Correcting a function error
+* Snooping for suspects
+
+#### 01-07-02-[Loading Data in pandas](</python/01-Programming/07-Introduction to Data Science in Python/02-Loading Data in pandas>)
+In this chapter, you'll learn a powerful Python libary: pandas. Pandas lets you read, modify, and search tabular datasets (like spreadsheets and database tables). You'll examine credit card records for the suspects and see if any of them made suspicious purchases.
+
+* What is pandas?
+* Loading a DataFrame
+* Inspecting a DataFrame
+* Selecting columns
+* Two methods for selecting columns
+* Correcting column selection errors
+* More column selection mistakes
+* Selecting rows with logic
+* Logical testing
+* Selecting missing puppies
+* Narrowing the list of suspects
+
+#### 01-07-03-[Plotting Data with matplotlib](</python/01-Programming/07-Introduction to Data Science in Python/03-Plotting Data with matplotlib>)
+Get ready to visualize your data! You'll create line plots with another Python module: matplotlib. Using line plots, you'll analyze the letter frequencies from the ransom note and several handwriting samples to determine the kidnapper.
+
+* Creating line plots
+* Working hard
+* Or hardly working?
+* Adding text to plots
+* Adding a legend
+* Adding labels
+* Adding floating text
+* Styling graphs
+* Tracking crime statistics
+* Playing with styles
+* Identifying Bayes' kidnapper
+
+#### 01-07-04-[Different Types of Plots](</python/01-Programming/07-Introduction to Data Science in Python/04-Different Types of Plots>)
+In this final chapter, you'll learn how to create three new plot types: scatter plots, bar plots, and histograms. You'll use these tools to locate where the kidnapper is hiding and rescue Bayes, the Golden Retriever.
+
+* Making a scatter plot
+* Charting cellphone data
+* Modifying a scatterplot
+* Making a bar chart
+* Build a simple bar chart
+* Where did the time go?
+* Making a histogram
+* Modifying histograms
+* Heroes with histograms
+* Recap of the rescue
