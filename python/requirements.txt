@@ -13,3 +13,5 @@ scipy
 sqlalchemy
 requests
 beautifulsoup4
+psycopg2
+
