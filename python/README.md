@@ -452,3 +452,116 @@ In this final chapter, you'll learn how to create three new plot types: scatter 
 * Modifying histograms
 * Heroes with histograms
 * Recap of the rescue
+
+## 02-01-Importing Data in Python (Part 1)
+As a Data Scientist, on a daily basis you will need to clean data, wrangle and munge it, visualize it, build predictive models and interpret these models. Before doing any of these, however, you will need to know how to get data into Python. In this course, you'll learn the many ways to import data into Python: (i) from flat files such as .txts and .csvs; (ii) from files native to other software such as Excel spreadsheets, Stata, SAS and MATLAB files; (iii) from relational databases such as SQLite & PostgreSQL.
+
+#### 02-01-01-[Introduction and flat files](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/01-Introduction and flat files>)
+In this chapter, you'll learn how to import data into Python from all types of flat files, a simple and prevalent form of data storage. You've previously learned how to use NumPy and pandas - you will learn how to use these packages to import flat files, as well as how to customize your imports.
+
+* Welcome to the course!
+* Exploring your working directory
+* Importing entire text files
+* Importing text files line by line
+* The importance of flat files in data science
+* Pop quiz: examples of flat files
+* Pop quiz: what exactly are flat files?
+* Why we like flat files and the Zen of Python
+* Importing flat files using NumPy
+* Using NumPy to import flat files
+* Customizing your NumPy import
+* Importing different datatypes
+* Working with mixed datatypes (1)
+* Working with mixed datatypes (2)
+* Importing flat files using pandas
+* Using pandas to import flat files as DataFrames (1)
+* Using pandas to import flat files as DataFrames (2)
+* Customizing your pandas import
+* Final thoughts on data import
+
+#### 02-01-02-[Importing data from other file types](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/02-Importing data from other file types>)
+You've learned how to import flat files, but there are many other file types you will potentially have to work with as a data scientist. In this chapter, you'll learn how to import data into Python from a wide array of important file types. You will be importing file types such as pickled files, Excel spreadsheets, SAS and Stata files, HDF5 files, a file type for storing large quantities of numerical data, and MATLAB files.
+
+* Introduction to other file types
+* Not so flat any more
+* Loading a pickled file
+* Listing sheets in Excel files
+* Importing sheets from Excel files
+* Customizing your spreadsheet import
+* Importing SAS/Stata files using pandas
+* How to import SAS7BDAT
+* Importing SAS files
+* Using read_stata to import Stata files
+* Importing Stata files
+* Importing HDF5 files
+* Using File to import HDF5 files
+* Using h5py to import HDF5 files
+* Extracting data from your HDF5 file
+* Importing MATLAB files
+* Loading .mat files
+* The structure of .mat in Python
+
+#### 02-01-03-[Working with relational databases in Python](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/03-Working with relational databases in Python>)
+In this chapter, you'll learn how to extract meaningful data from relational databases, an essential element of any data scientist's toolkit. You will be learning about the relational model, creating SQL queries, filtering and ordering your SQL records, and advanced querying by JOINing database tables.
+
+* Introduction to relational databases
+* Pop quiz: The relational model
+* Creating a database engine in Python
+* Creating a database engine
+* What are the tables in the database?
+* Querying relational databases in Python
+* The Hello World of SQL Queries!
+* Customizing the Hello World of SQL Queries
+* Filtering your database records using SQL's WHERE
+* Ordering your SQL records with ORDER BY
+* Querying relational databases directly with pandas
+* Pandas and The Hello World of SQL Queries!
+* Pandas for more complex querying
+* Advanced Querying: exploiting table relationships
+* The power of SQL lies in relationships between tables: INNER JOIN
+* Filtering your INNER JOIN
+* Final Thoughts
+
+## 02-02-Importing Data in Python (Part 2)
+As a Data Scientist, on a daily basis you will need to clean data, wrangle and munge it, visualize it, build predictive models and interpret these models. Before doing any of these, however, you will need to know how to get data into Python. In the prequel to this course, you have already learnt many ways to import data into Python: (i) from flat files such as .txts and .csvs; (ii) from files native to other software such as Excel spreadsheets, Stata, SAS and MATLAB files; (iii) from relational databases such as SQLite & PostgreSQL. In this course, you'll extend this knowledge base by learning to import data (i) from the web and (ii) a special and essential case of this: pulling data from Application Programming Interfaces, also known as APIs, such as the Twitter streaming API, which allows us to stream real-time tweets.
+
+#### 02-02-01-[Importing data from the Internet](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/01-Importing data from the Internet>)
+The web is a rich source of data from which you can extract various types of insights and findings. In this chapter, you will learn how to get data from the web, whether it be stored in files or in HTML. You'll also learn the basics of scraping and parsing web data.
+
+* Importing flat files from the web
+* Importing flat files from the web: your turn!
+* Opening and reading flat files from the web
+* Importing non-flat files from the web
+* HTTP requests to import files from the web
+* Performing HTTP requests in Python using urllib
+* Printing HTTP request results in Python using urllib
+* Performing HTTP requests in Python using requests
+* Scraping the web in Python
+* Parsing HTML with BeautifulSoup
+* Turning a webpage into data using BeautifulSoup: getting the text
+* Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+
+#### 02-02-02-[Interacting with APIs to import data from the web](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/02-Interacting with APIs to import data from the web>)
+In this chapter, you will push further on your knowledge of importing data from the web. You will learn the basics of extracting data from APIs, gain insight on the importance of APIs and practice getting data from them with dives into the OMDB and Library of Congress APIs.
+
+* Introduction to APIs and JSONs
+* Pop quiz: What exactly is a JSON?
+* Loading and exploring a JSON
+* Pop quiz: Exploring your JSON
+* APIs and interacting with the world wide web
+* Pop quiz: What's an API?
+* API requests
+* JSON–from the web to Python
+* Checking out the Wikipedia API
+
+#### 02-02-03-[Diving deep into the Twitter API](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/03-Diving deep into the Twitter API>)
+In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data and to analyze and visualize it!
+
+* The Twitter API and Authentication
+* API Authentication
+* Streaming tweets
+* Load and explore your Twitter data
+* Twitter data to DataFrame
+* A little bit of Twitter text analysis
+* Plotting your Twitter data
+* Final Thoughts
