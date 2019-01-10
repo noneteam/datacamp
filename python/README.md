@@ -490,7 +490,7 @@ You've learned how to import flat files, but there are many other file types you
 * Loading a pickled file
 * Listing sheets in Excel files
 * Importing sheets from Excel files
-* Customizing your spreadsheet import
+* ~~Customizing your spreadsheet import~~
 * Importing SAS/Stata files using pandas
 * How to import SAS7BDAT
 * Importing SAS files
