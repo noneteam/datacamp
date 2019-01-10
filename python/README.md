@@ -378,6 +378,7 @@ Handling times can seem daunting at time, but here, you'll dig in and learn how 
 
 #### 01-05-05-[Answering Data Science Questions](</python/01-Programming/05-Data Types for Data Science/05-Answering Data Science Questions>)
 Time for a case study to reinforce all of your learning so far! You'll use all the containers and data types you've learned about to answer several real world questions about a dataset containing information about crime in Chicago. Have fun!
+
 * Counting within Date Ranges
 * Reading your data with CSV Reader and Establishing your Data Containers
 * Find the Months with the Highest Number of Crimes
@@ -387,4 +388,261 @@ Time for a case study to reinforce all of your learning so far! You'll use all t
 * Reading your Data with DictReader and Establishing your Data Containers
 * Determine the Arrests by District by Year
 * Unique Crimes by City Block
+* Final thoughts
+
+## 01-07-Introduction to Data Science in Python
+Begin your journey into Data Science! Even if you've never written a line of code in your life, you'll be able to follow this course and witness the power of Python to perform Data Science. You'll use data to solve the mystery of Bayes, the kidnapped Golden Retriever, and along the way you'll become familiar with basic Python syntax and popular Data Science modules like Matplotlib (for charts and graphs) and Pandas (for tabular data).
+
+#### 01-07-01-[Getting Started in Python](</python/01-Programming/07-Introduction to Data Science in Python/01-Getting Started in Python>)
+Welcome to the wonderful world of Data Analysis in Python! In this chapter, you'll learn the basics of Python syntax, load your first Python modules, and use functions to get a suspect list for the kidnapping of Bayes, DataCamp's prize-winning Golden Retriever.
+
+* Dive into Python
+* Importing Python modules
+* Correcting a broken import
+* Creating variables
+* Creating a float
+* Creating strings
+* Correcting string errors
+* Valid variable names
+* Fun with functions
+* Load a DataFrame
+* Correcting a function error
+* Snooping for suspects
+
+#### 01-07-02-[Loading Data in pandas](</python/01-Programming/07-Introduction to Data Science in Python/02-Loading Data in pandas>)
+In this chapter, you'll learn a powerful Python libary: pandas. Pandas lets you read, modify, and search tabular datasets (like spreadsheets and database tables). You'll examine credit card records for the suspects and see if any of them made suspicious purchases.
+
+* What is pandas?
+* Loading a DataFrame
+* Inspecting a DataFrame
+* Selecting columns
+* Two methods for selecting columns
+* Correcting column selection errors
+* More column selection mistakes
+* Selecting rows with logic
+* Logical testing
+* Selecting missing puppies
+* Narrowing the list of suspects
+
+#### 01-07-03-[Plotting Data with matplotlib](</python/01-Programming/07-Introduction to Data Science in Python/03-Plotting Data with matplotlib>)
+Get ready to visualize your data! You'll create line plots with another Python module: matplotlib. Using line plots, you'll analyze the letter frequencies from the ransom note and several handwriting samples to determine the kidnapper.
+
+* Creating line plots
+* Working hard
+* Or hardly working?
+* Adding text to plots
+* Adding a legend
+* Adding labels
+* Adding floating text
+* Styling graphs
+* Tracking crime statistics
+* Playing with styles
+* Identifying Bayes' kidnapper
+
+#### 01-07-04-[Different Types of Plots](</python/01-Programming/07-Introduction to Data Science in Python/04-Different Types of Plots>)
+In this final chapter, you'll learn how to create three new plot types: scatter plots, bar plots, and histograms. You'll use these tools to locate where the kidnapper is hiding and rescue Bayes, the Golden Retriever.
+
+* Making a scatter plot
+* Charting cellphone data
+* Modifying a scatterplot
+* Making a bar chart
+* Build a simple bar chart
+* Where did the time go?
+* Making a histogram
+* Modifying histograms
+* Heroes with histograms
+* Recap of the rescue
+
+## 02-01-Importing Data in Python (Part 1)
+As a Data Scientist, on a daily basis you will need to clean data, wrangle and munge it, visualize it, build predictive models and interpret these models. Before doing any of these, however, you will need to know how to get data into Python. In this course, you'll learn the many ways to import data into Python: (i) from flat files such as .txts and .csvs; (ii) from files native to other software such as Excel spreadsheets, Stata, SAS and MATLAB files; (iii) from relational databases such as SQLite & PostgreSQL.
+
+#### 02-01-01-[Introduction and flat files](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/01-Introduction and flat files>)
+In this chapter, you'll learn how to import data into Python from all types of flat files, a simple and prevalent form of data storage. You've previously learned how to use NumPy and pandas - you will learn how to use these packages to import flat files, as well as how to customize your imports.
+
+* Welcome to the course!
+* Exploring your working directory
+* Importing entire text files
+* Importing text files line by line
+* The importance of flat files in data science
+* Pop quiz: examples of flat files
+* Pop quiz: what exactly are flat files?
+* Why we like flat files and the Zen of Python
+* Importing flat files using NumPy
+* Using NumPy to import flat files
+* Customizing your NumPy import
+* Importing different datatypes
+* Working with mixed datatypes (1)
+* Working with mixed datatypes (2)
+* Importing flat files using pandas
+* Using pandas to import flat files as DataFrames (1)
+* Using pandas to import flat files as DataFrames (2)
+* Customizing your pandas import
+* Final thoughts on data import
+
+#### 02-01-02-[Importing data from other file types](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/02-Importing data from other file types>)
+You've learned how to import flat files, but there are many other file types you will potentially have to work with as a data scientist. In this chapter, you'll learn how to import data into Python from a wide array of important file types. You will be importing file types such as pickled files, Excel spreadsheets, SAS and Stata files, HDF5 files, a file type for storing large quantities of numerical data, and MATLAB files.
+
+* Introduction to other file types
+* Not so flat any more
+* Loading a pickled file
+* Listing sheets in Excel files
+* Importing sheets from Excel files
+* Customizing your spreadsheet import
+* Importing SAS/Stata files using pandas
+* How to import SAS7BDAT
+* Importing SAS files
+* Using read_stata to import Stata files
+* Importing Stata files
+* Importing HDF5 files
+* Using File to import HDF5 files
+* Using h5py to import HDF5 files
+* Extracting data from your HDF5 file
+* Importing MATLAB files
+* Loading .mat files
+* The structure of .mat in Python
+
+#### 02-01-03-[Working with relational databases in Python](</python/02-Importing & Cleaning Data/01-Importing Data in Python (Part 1)/03-Working with relational databases in Python>)
+In this chapter, you'll learn how to extract meaningful data from relational databases, an essential element of any data scientist's toolkit. You will be learning about the relational model, creating SQL queries, filtering and ordering your SQL records, and advanced querying by JOINing database tables.
+
+* Introduction to relational databases
+* Pop quiz: The relational model
+* Creating a database engine in Python
+* Creating a database engine
+* What are the tables in the database?
+* Querying relational databases in Python
+* The Hello World of SQL Queries!
+* Customizing the Hello World of SQL Queries
+* Filtering your database records using SQL's WHERE
+* Ordering your SQL records with ORDER BY
+* Querying relational databases directly with pandas
+* Pandas and The Hello World of SQL Queries!
+* Pandas for more complex querying
+* Advanced Querying: exploiting table relationships
+* The power of SQL lies in relationships between tables: INNER JOIN
+* Filtering your INNER JOIN
+* Final Thoughts
+
+## 02-02-Importing Data in Python (Part 2)
+As a Data Scientist, on a daily basis you will need to clean data, wrangle and munge it, visualize it, build predictive models and interpret these models. Before doing any of these, however, you will need to know how to get data into Python. In the prequel to this course, you have already learnt many ways to import data into Python: (i) from flat files such as .txts and .csvs; (ii) from files native to other software such as Excel spreadsheets, Stata, SAS and MATLAB files; (iii) from relational databases such as SQLite & PostgreSQL. In this course, you'll extend this knowledge base by learning to import data (i) from the web and (ii) a special and essential case of this: pulling data from Application Programming Interfaces, also known as APIs, such as the Twitter streaming API, which allows us to stream real-time tweets.
+
+#### 02-02-01-[Importing data from the Internet](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/01-Importing data from the Internet>)
+The web is a rich source of data from which you can extract various types of insights and findings. In this chapter, you will learn how to get data from the web, whether it be stored in files or in HTML. You'll also learn the basics of scraping and parsing web data.
+
+* Importing flat files from the web
+* Importing flat files from the web: your turn!
+* Opening and reading flat files from the web
+* Importing non-flat files from the web
+* HTTP requests to import files from the web
+* Performing HTTP requests in Python using urllib
+* Printing HTTP request results in Python using urllib
+* Performing HTTP requests in Python using requests
+* Scraping the web in Python
+* Parsing HTML with BeautifulSoup
+* Turning a webpage into data using BeautifulSoup: getting the text
+* Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+
+#### 02-02-02-[Interacting with APIs to import data from the web](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/02-Interacting with APIs to import data from the web>)
+In this chapter, you will push further on your knowledge of importing data from the web. You will learn the basics of extracting data from APIs, gain insight on the importance of APIs and practice getting data from them with dives into the OMDB and Library of Congress APIs.
+
+* Introduction to APIs and JSONs
+* Pop quiz: What exactly is a JSON?
+* Loading and exploring a JSON
+* Pop quiz: Exploring your JSON
+* APIs and interacting with the world wide web
+* Pop quiz: What's an API?
+* API requests
+* JSON–from the web to Python
+* Checking out the Wikipedia API
+
+#### 02-02-03-[Diving deep into the Twitter API](</python/02-Importing & Cleaning Data/02-Importing Data in Python (Part 2)/03-Diving deep into the Twitter API>)
+In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data and to analyze and visualize it!
+
+* The Twitter API and Authentication
+* API Authentication
+* Streaming tweets
+* Load and explore your Twitter data
+* Twitter data to DataFrame
+* A little bit of Twitter text analysis
+* Plotting your Twitter data
+* Final Thoughts
+
+## 02-03-Cleaning Data in Python
+A vital component of data science involves acquiring raw data and getting it into a form ready for analysis. In fact, it is commonly said that data scientists spend 80% of their time cleaning and manipulating data, and only 20% of their time actually analyzing it. This course will equip you with all the skills you need to clean your data in Python, from learning how to diagnose your data for problems to dealing with missing values and outliers. At the end of the course, you'll apply all of the techniques you've learned to a case study in which you'll clean a real-world Gapminder dataset!
+
+#### 02-03-01-[Exploring your data](</python/02-Importing & Cleaning Data/03-Cleaning Data in Python/01-Exploring your data>)
+So you've just got a brand new dataset and are itching to start exploring it. But where do you begin, and how can you be sure your dataset is clean? This chapter will introduce you to the world of data cleaning in Python! You'll learn how to explore your data with an eye for diagnosing issues such as outliers, missing values, and duplicate rows.
+
+* Diagnose data for cleaning
+* Loading and viewing your data
+* Further diagnosis
+* Exploratory data analysis
+* Calculating summary statistics
+* Frequency counts for categorical data
+* Visual exploratory data analysis
+* Visualizing single variables with histograms
+* Visualizing multiple variables with boxplots
+* Visualizing multiple variables with scatter plots
+
+#### 02-03-02-[Tidying data for analysis](</python/02-Importing & Cleaning Data/03-Cleaning Data in Python/02-Tidying data for analysis>)
+Here, you'll learn about the principles of tidy data and more importantly, why you should care about them and how they make subsequent data analysis more efficient. You'll gain first hand experience with reshaping and tidying your data using techniques such as pivoting and melting.
+
+* Tidy data
+* Recognizing tidy data
+* Reshaping your data using melt
+* Customizing melted data
+* Pivoting data
+* Pivot data
+* Resetting the index of a DataFrame
+* Pivoting duplicate values
+* Beyond melt and pivot
+* Splitting a column with .str
+* Splitting a column with .split() and .get()
+
+#### 02-03-03-[Combining data for analysis](</python/02-Importing & Cleaning Data/03-Cleaning Data in Python/03-Combining data for analysis>)
+The ability to transform and combine your data is a crucial skill in data science, because your data may not always come in one monolithic file or table for you to load. A large dataset may be broken into separate datasets to facilitate easier storage and sharing. Or if you are dealing with time series data, for example, you may have a new dataset for each day. No matter the reason, it is important to be able to combine datasets so you can either clean a single dataset, or clean each dataset separately and then combine them later so you can run your analysis on a single dataset. In this chapter, you'll learn all about combining data.
+
+* Concatenating data
+* Combining rows of data
+* Combining columns of data
+* Finding and concatenating data
+* Finding files that match a pattern
+* Iterating and concatenating all matches
+* Merge data
+* 1-to-1 data merge
+* Many-to-1 data merge
+* Many-to-many data merge
+
+#### 02-03-04-[Cleaning data for analysis](</python/02-Importing & Cleaning Data/03-Cleaning Data in Python/04-Cleaning data for analysis>)
+Here, you'll dive into some of the grittier aspects of data cleaning. You'll learn about string manipulation and pattern matching to deal with unstructured data, and then explore techniques to deal with missing or duplicate data. You'll also learn the valuable skill of programmatically checking your data for consistency, which will give you confidence that your code is running correctly and that the results of your analysis are reliable!
+
+* Data types
+* Converting data types
+* Working with numeric data
+* Using regular expressions to clean strings
+* String parsing with regular expressions
+* Extracting numerical values from strings
+* Pattern matching
+* Using functions to clean data
+* Custom functions to clean data
+* Lambda functions
+* Duplicate and missing data
+* Dropping duplicate data
+* Filling missing data
+* Testing with asserts
+* Testing your data with asserts
+
+#### 02-03-05-[Case study](</python/02-Importing & Cleaning Data/03-Cleaning Data in Python/05-Case study>)
+In this final chapter, you'll apply all of the data cleaning techniques you've learned in this course towards tidying a real-world, messy dataset obtained from the Gapminder Foundation. Once you're done, not only will you have a clean and tidy dataset, you'll also be ready to start working on your own data science projects using the power of Python!
+
+* Putting it all together
+* Exploratory analysis
+* Visualizing your data
+* Thinking about the question at hand
+* Assembling your data
+* Initial impressions of the data
+* Reshaping your data
+* Checking the data types
+* Looking at country spellings
+* More data cleaning and processing
+* Wrapping up
 * Final thoughts

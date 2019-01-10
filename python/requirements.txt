@@ -4,3 +4,14 @@ pandas
 jupyter
 pytz
 pendulum
+statsmodels
+seaborn
+xlrd
+sas7bdat
+h5py
+scipy
+sqlalchemy
+requests
+beautifulsoup4
+psycopg2
+
