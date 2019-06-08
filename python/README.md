@@ -649,3 +649,95 @@ In this final chapter, you'll apply all of the data cleaning techniques you've l
 * More data cleaning and processing
 * Wrapping up
 * Final thoughts
+
+# 03-Data Manipulation
+Harness the power of tools such as pandas and SQLAlchemy so you can extract, filter, and transform your data quickly and efficiently.
+
+## 03-01-Introduction to Databases
+In this Python SQL course, you'll learn the basics of using Structured Query Language (SQL) with Python. This will be useful since whether you like it or not, databases are ubiquitous and, as a data scientist, you'll need to interact with them constantly. The Python SQL toolkit SQLAlchemy provides an accessible and intuitive way to query, build & write to SQLite, MySQL and Postgresql databases (among many others), all of which you will encounter in the daily life of a data scientist.
+
+#### 03-01-01-[Basics of Relational Databases](</python/03-Data Manipulation/01-Introduction to Databases in Python/01-Basics of Relational Databases>)
+In this chapter, you will become acquainted with the fundamentals of Relational Databases and the Relational Model. You will learn how to connect to a database and then interact with it by writing basic SQL queries, both in raw SQL as well as with SQLAlchemy, which provides a Pythonic way of interacting with databases.
+
+* Introduction to Databases
+* Relational Model
+* Connecting to your Database
+* Engines and Connection Strings
+* Autoloading Tables from a Database
+* Viewing Table Details
+* Introduction to SQL
+* Selecting data from a Table: raw SQL
+* Selecting data from a Table with SQLAlchemy
+* Handling a ResultSet
+* Congratulations!
+
+#### 03-01-02-[Applying Filtering, Ordering and Grouping to Queries](</python/03-Data Manipulation/01-Introduction to Databases in Python/02-Applying Filtering, Ordering and Grouping to Queries>)
+In this chapter, you will build on the database knowledge you began acquiring in the previous chapter by writing more nuanced queries that allow you to filter, order, and count your data, all within the Pythonic framework provided by SQLAlchemy!
+
+* Filtering and Targeting Data
+* Connecting to a PostgreSQL Database
+* Filter data selected from a Table - Simple
+* Filter data selected from a Table - Expressions
+* Filter data selected from a Table - Advanced
+* Overview of Ordering
+* Ordering by a Single Column
+* Ordering in Descending Order by a Single Column
+* Ordering by Multiple Columns
+* Counting, Summing and Grouping Data
+* Counting Distinct Data
+* Count of Records by State
+* Determining the Population Sum by State
+* Let's use Pandas and Matplotlib to visualize our Data
+* SQLAlchemy ResultsProxy and Pandas Dataframes
+* From SQLAlchemy results to a Graph
+
+#### 03-01-03-[Advanced SQLAlchemy Queries](</python/03-Data Manipulation/01-Introduction to Databases in Python/03-Advanced SQLAlchemy Queries>)
+Herein, you will learn to perform advanced - and incredibly useful - queries that will enable you to interact with your data in powerful ways.
+
+* Calculating Values in a Query
+* Connecting to a MySQL Database
+* Calculating a Difference between Two Columns
+* Determining the Overall Percentage of Females
+* SQL Relationships
+* Automatic Joins with an Established Relationship
+* Joins
+* More Practice with Joins
+* Working with Hierarchical Tables
+* Using alias to handle same table joined queries
+* Leveraging Functions and Group_bys with Hierarchical Data
+* Dealing with Large ResultSets
+* Working on Blocks of Records
+
+#### 03-01-04-[Creating and Manipulating your own Databases](</python/03-Data Manipulation/01-Introduction to Databases in Python/04-Creating and Manipulating your own Databases>)
+In the previous chapters, you interacted with existing databases and queried them in various different ways. Now, you will learn how to build your own databases and keep them updated!
+
+* Creating Databases and Tables
+* Creating Tables with SQLAlchemy
+* Constraints and Data Defaults
+* Inserting Data into a Table
+* Inserting a single row with an insert() statement
+* Inserting Multiple Records at Once
+* Loading a CSV into a Table
+* Updating Data in a Database
+* Updating individual records
+* Updating Multiple Records
+* Correlated Updates
+* Removing Data From a Database
+* Deleting all the records from a table
+* Deleting specific records
+* Deleting a Table Completely
+
+#### 03-01-05-[Putting it all together](</python/03-Data Manipulation/01-Introduction to Databases in Python/05-Putting it all together>)
+Here, you will bring together all of the skills you acquired in the previous chapters to work on a real life project! From connecting to a database, to populating it, to reading and querying it, you will have a chance to apply all the key concepts you learned in this course. Enjoy!
+
+* Census Case Study
+* Setup the Engine and MetaData
+* Create the Table to the Database
+* Populating the Database
+* Reading the Data from the CSV
+* Load Data from a list into the Table
+* Example Queries
+* Build a Query to Determine the Average Age by Population
+* Build a Query to Determine the Percentage of Population by Gender and State
+* Build a Query to Determine the Difference by State from the 2000 and 2008 Censuses
+* Congratulations
