@@ -15,4 +15,5 @@ requests
 beautifulsoup4
 # psycopg2
 pymysql
+sklearn
 
